@@ -1,0 +1,3 @@
+[submodule "drumClassifier/CLAP"]
+	path = drumClassifier/CLAP
+	url = https://github.com/LAION-AI/CLAP.git
